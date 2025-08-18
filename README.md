@@ -1,6 +1,6 @@
 # Learning Roadmaps Hub
 
-A simple repository collecting concise learning and career roadmaps for topics you care about (for example: MLOps, .NET, Flask, MLflow).
+A simple repository collecting concise learning and career roadmaps for topics I care about.
 
 ## What this repo is for
 
